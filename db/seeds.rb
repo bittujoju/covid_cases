@@ -8,6 +8,8 @@
 
 # Country list is the response for the get call to this API endpoint. https://api.covid19api.com/countries
 
+# Keeping the format of country list exactly same as the json from covid19api so that it can be easily updated.
+
 country_list = [
     {
         "Country": "Sao Tome and Principe",

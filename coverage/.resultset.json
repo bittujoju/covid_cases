@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/bittujoju/personal-projects/covid_cases/app/models/Country.rb": {
+      "/Users/bittujoju/personal-projects/covid_cases/app/models/country.rb": {
         "lines": [
           1,
           null,
@@ -10,6 +10,20 @@
           null,
           1,
           null,
+          null,
+          null
+        ]
+      },
+      "/Users/bittujoju/personal-projects/covid_cases/app/models/search.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
           null,
           null
         ]
@@ -75,6 +89,6 @@
         }
       }
     },
-    "timestamp": 1600100210
+    "timestamp": 1600100817
   }
 }
