@@ -24,7 +24,7 @@ Allows to filter cases by country and status.
 
 #### Query Params
 country : required param to filter by country. name or slug from /countries can be used. <br/>
-status : required param to filter by status.<br/>
+status : required param to filter by status. Valid Statuses are confirmed, deaths, recovered.<br/>
 sort_by : optional param to sort by date or cases.<br/>
 sort_type : optional param to sort ascending or descending.<br/>
 page : optional integer param to choose which page to load.
